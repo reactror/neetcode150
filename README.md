@@ -30,3 +30,4 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 - 022 Min Stack: https://leetcode.com/problems/min-stack/
 - 023 Evaluate Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 - 024 Generate Parentheses: https://leetcode.com/problems/generate-parentheses/
+- 025 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/
