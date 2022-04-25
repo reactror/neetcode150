@@ -32,3 +32,4 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 - 024 Generate Parentheses: https://leetcode.com/problems/generate-parentheses/
 - 025 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/
 - 026 Car Fleet: https://leetcode.com/problems/car-fleet/
+- 027 Largest Rectangle in Historgram: https://leetcode.com/problems/largest-rectangle-in-histogram/
