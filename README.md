@@ -33,3 +33,7 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 - 025 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/
 - 026 Car Fleet: https://leetcode.com/problems/car-fleet/
 - 027 Largest Rectangle in Historgram: https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+### Binary Search
+- 028 Binary Search: https://leetcode.com/problems/binary-search/
+- 029 Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
