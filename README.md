@@ -39,3 +39,4 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 - 029 Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
 - 030 Koko Eating Bananas: https://leetcode.com/problems/koko-eating-bananas/
 - 031 Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
+- 032 Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
