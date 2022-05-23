@@ -1,47 +1,59 @@
 My solutions to Neetcode 150 (https://www.neetcode.io)
 ### Arrays & Hashing
-- 001 Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
-- 002 Valid Anagram: https://leetcode.com/problems/valid-anagram/
-- 003 Two Sum: https://leetcode.com/problems/two-sum/
-- 004 Group Anagrams: https://leetcode.com/problems/group-anagrams/
-- 005 Top K Frequent Elements: https://leetcode.com/problems/top-k-frequent-elements/
-- 006 Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/
-- 007 Valid Sudoku: https://leetcode.com/problems/valid-sudoku/
-- 008 Encode and Decode Strings: https://www.lintcode.com/problem/659/
-- 009 Longest Consecutive Sequence: https://leetcode.com/problems/longest-consecutive-sequence/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 001 | Contains Duplicate | Easy | [link](https://leetcode.com/problems/contains-duplicate/) |
+| 002 | Valid Anagram | Easy |[link](https://leetcode.com/problems/valid-anagram/) |
+| 003 | Two Sum | Easy |[link](https://leetcode.com/problems/two-sum/) |
+| 004 | Group Anagrams | Medium | [link](https://leetcode.com/problems/group-anagrams/) |
+| 005 | Top K Frequent Elements | Medium | [link](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 006 | Product of Array Except Self | Medium | [link](https://leetcode.com/problems/product-of-array-except-self/) |
+| 007 | Valid Sudoku | Medium | [link](https://leetcode.com/problems/valid-sudoku/) |
+| 008 | Encode and Decode Strings | Medium | [link](https://www.lintcode.com/problem/659/) |
+| 009 | Longest Consecutive Sequence | Medium |[link](https://leetcode.com/problems/longest-consecutive-sequence/) |
 
 ### Two Pointers
-- 010 Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
-- 011 Two Sum II: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-- 012 3 Sum: https://leetcode.com/problems/3sum/
-- 013 Container with Most Water: https://leetcode.com/problems/container-with-most-water/
-- 014 Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 010 | Valid Palindrome | Easy | [link](https://leetcode.com/problems/valid-palindrome/) |
+| 011 | Two Sum II | Medium | [link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 012 | 3 Sum | Medium | [link](https://leetcode.com/problems/3sum/) |
+| 013 | Container with Most Water | Medium | [link](https://leetcode.com/problems/container-with-most-water/) |
+| 014 | Trapping Rain Water | Hard | [link](https://leetcode.com/problems/trapping-rain-water/) |
 
 ### Sliding Window
-- 015 Best Tune ti Buy & Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- 016 Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-- 017 Longest Repeating Character Replacement: https://leetcode.com/problems/longest-repeating-character-replacement/
-- 018 Permutation in String: https://leetcode.com/problems/permutation-in-string/
-- 019 Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring/
-- 020 Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 015 | Best Time to Buy & Sell Stock | Easy | [link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 016 | Longest Substring Without Repeating Characters | Medium | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 017 | Longest Repeating Character Replacement | Medium | [link](https://leetcode.com/problems/longest-repeating-character-replacement/) |
+| 018 | Permutation in String | Medium | [link](https://leetcode.com/problems/permutation-in-string/) |
+| 019 | Minimum Window Substring | Hard | [link](https://leetcode.com/problems/minimum-window-substring/) |
+| 020 | Sliding Window Maximum | Hard | [link](https://leetcode.com/problems/sliding-window-maximum/) |
 
 ### Stack
-- 021 Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
-- 022 Min Stack: https://leetcode.com/problems/min-stack/
-- 023 Evaluate Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/
-- 024 Generate Parentheses: https://leetcode.com/problems/generate-parentheses/
-- 025 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/
-- 026 Car Fleet: https://leetcode.com/problems/car-fleet/
-- 027 Largest Rectangle in Historgram: https://leetcode.com/problems/largest-rectangle-in-histogram/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 021 | Valid Parentheses | Easy | [link](https://leetcode.com/problems/valid-parentheses/) |
+| 022 | Min Stack | Easy | [link](https://leetcode.com/problems/min-stack/) |
+| 023 | Evaluate Reverse Polish Notation | Medium | [link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 024 | Generate Parentheses | Medium | [link](https://leetcode.com/problems/generate-parentheses/) |
+| 025 | Daily Temperatures | Medium | [link](https://leetcode.com/problems/daily-temperatures/) |
+| 026 | Car Fleet | Medium | [link](https://leetcode.com/problems/car-fleet/) |
+| 027 | Largest Rectangle in Histogram | Hard | [link](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 
 ### Binary Search
-- 028 Binary Search: https://leetcode.com/problems/binary-search/
-- 029 Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
-- 030 Koko Eating Bananas: https://leetcode.com/problems/koko-eating-bananas/
-- 031 Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
-- 032 Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- 033 Time Based Key-Value Store: https://leetcode.com/problems/time-based-key-value-store/
-- 034 Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 028 | Binary Search | Easy | [link](https://leetcode.com/problems/binary-search/) |
+| 029 | Search a 2D Matrix | Medium | [link](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 030 | Koko Eating Bananas | Medium | [link](https://leetcode.com/problems/koko-eating-bananas/) |
+| 031 | Search in Rotated Sorted Array | Medium | [link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 032 | Find Minimum in Rotated Sorted Array | Medium | [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 033 | Time Based Key-Value Store | Medium | [link](https://leetcode.com/problems/time-based-key-value-store/) |
+| 034 | Median of Two Sorted Arrays | Hard | [link](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 
 ### Linked List
-- 035 Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/
+| # | Title | Difficulty | Link |
+| - | ----- | ---------- | ---- |
+| 035 | Reverse Linked List | Easy | [link](https://leetcode.com/problems/reverse-linked-list/) |
