@@ -41,3 +41,4 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 - 031 Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 032 Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - 033 Time Based Key-Value Store: https://leetcode.com/problems/time-based-key-value-store/
+- 034 Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/
