@@ -60,3 +60,4 @@ My solutions to Neetcode 150 (https://www.neetcode.io)
 | 036 | Merge Two Sorted Lists | Easy | [link](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 037 | Reorder List | Medium | [link](https://leetcode.com/problems/reorder-list/) |
 | 038 | Remove nth node from end | Medium | [link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| 039 | Copy List with Random Pointer | Medium | [link](https://leetcode.com/problems/copy-list-with-random-pointer) |
